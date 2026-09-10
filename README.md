@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Drew (@drewcode320)
 
-<!--
-**drewcode320/drewcode320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mobile app developer based in Sydney, currently building cross-platform products at App Studio.
 
-Here are some ideas to get you started:
+#### What I work with
+- **Frameworks:** Flutter, React Native, Expo
+- **Languages:** Dart, TypeScript, JavaScript
+- **Backend & Cloud:** Firebase, Supabase, Node.js, REST & GraphQL APIs
+- **Tooling:** Fastlane, GitHub Actions, Jest, Patrol
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current focus
+- Exploring Kotlin Multiplatform for shared business logic
+- Optimizing offline-first sync architectures
+- Custom render objects and UI micro-interactions in Flutter
+
+#### Connect
+- LinkedIn: [linkedin.com/in/drewcode320](https://linkedin.com)
+- Email: drew@example.com
+- Twitter/X: [@drewcode320](https://x.com)
